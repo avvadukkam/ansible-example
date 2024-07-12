@@ -1,0 +1,2 @@
+[gcp]
+34.31.1.104 ansible_ssh_private_key_file=/home/deepak/.ssh/ansible_demo
